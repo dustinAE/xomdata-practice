@@ -156,5 +156,8 @@
   "practice/sql/hard/medium-repeat-005/solution.sql": "75733ce058be0223ba653c9b019d2e1d2ec9ee96e243293f9d89a9b9178fd328",
   "practice/sql/hard/medium-cohort-008/solution.sql": "63520ff53db34fc27969b798e775d257c524e587c9cd8d155c85f7dcf70db01c",
   "practice/sql/medium/medium-frequency-006/solution.sql": "45d92498588d5d0002a6f84a75adc9535db8d2cbe65a9c7f61030676a7eb6f74",
-  "practice/sql/hard/hard-ltv-003/solution.sql": "f059a691b4863cc877cf8e06c1b4cb4d0814182b632d9f698c52b4caf76bf44a"
+  "practice/sql/hard/hard-ltv-003/solution.sql": "f059a691b4863cc877cf8e06c1b4cb4d0814182b632d9f698c52b4caf76bf44a",
+  "practice/sql/medium/medium-churn-007/solution.sql": "899ca2722732eb9919a479517cd1a29ce6288487ddcbee4eed31d414e6b99906",
+  "practice/sql/medium/medium-firstlast-002/solution.sql": "fb33797f423812618e3bfe4c2569fdb03c3e37cc1add7a2182f0350715a843ea",
+  "practice/sql/easy/medium-churn-002/solution.sql": "aad9876564e8b7faaf25eb3b7af4a3073f1e524181a8933e52ceede7cb75ecec"
 }
