@@ -159,5 +159,9 @@
   "practice/sql/hard/hard-ltv-003/solution.sql": "f059a691b4863cc877cf8e06c1b4cb4d0814182b632d9f698c52b4caf76bf44a",
   "practice/sql/medium/medium-churn-007/solution.sql": "899ca2722732eb9919a479517cd1a29ce6288487ddcbee4eed31d414e6b99906",
   "practice/sql/medium/medium-firstlast-002/solution.sql": "fb33797f423812618e3bfe4c2569fdb03c3e37cc1add7a2182f0350715a843ea",
-  "practice/sql/easy/medium-churn-002/solution.sql": "aad9876564e8b7faaf25eb3b7af4a3073f1e524181a8933e52ceede7cb75ecec"
+  "practice/sql/easy/medium-churn-002/solution.sql": "aad9876564e8b7faaf25eb3b7af4a3073f1e524181a8933e52ceede7cb75ecec",
+  "practice/sql/hard/medium-repeat-004/solution.sql": "7bbd9848a25df8457059b2770d1d86a4c10972c1e9b7339c132e2739040e625a",
+  "practice/sql/medium/medium-active-005/solution.sql": "eda96d5bb90953f51a0f0569659b634003420e1c39fa6beadccae80ea1d0e608",
+  "practice/sql/hard/hard-retention-009/solution.sql": "c9873f8cb04c23626dd14aa941a86c37cb8ac0f5b50a9cff251bb72f9349f288",
+  "practice/sql/hard/hard-winback-004/solution.sql": "2a3e6a5aa8239c7e921c865ecb510d7cd4048a5e6675032dcf155fb104642156"
 }
