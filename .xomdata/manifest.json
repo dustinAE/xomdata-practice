@@ -163,5 +163,7 @@
   "practice/sql/hard/medium-repeat-004/solution.sql": "7bbd9848a25df8457059b2770d1d86a4c10972c1e9b7339c132e2739040e625a",
   "practice/sql/medium/medium-active-005/solution.sql": "eda96d5bb90953f51a0f0569659b634003420e1c39fa6beadccae80ea1d0e608",
   "practice/sql/hard/hard-retention-009/solution.sql": "c9873f8cb04c23626dd14aa941a86c37cb8ac0f5b50a9cff251bb72f9349f288",
-  "practice/sql/hard/hard-winback-004/solution.sql": "2a3e6a5aa8239c7e921c865ecb510d7cd4048a5e6675032dcf155fb104642156"
+  "practice/sql/hard/hard-winback-004/solution.sql": "2a3e6a5aa8239c7e921c865ecb510d7cd4048a5e6675032dcf155fb104642156",
+  "practice/sql/medium/medium-recency-006/solution.sql": "e7001552c34f1ef71b205491feb201f8d03e4a63a877901dcbdc89aad215be66",
+  "practice/sql/medium/medium-repeat-006/solution.sql": "bb4c46203fe75779e434514570285b293f514c4b53eba37447a56ed83805f479"
 }
