@@ -165,5 +165,7 @@
   "practice/sql/hard/hard-retention-009/solution.sql": "c9873f8cb04c23626dd14aa941a86c37cb8ac0f5b50a9cff251bb72f9349f288",
   "practice/sql/hard/hard-winback-004/solution.sql": "2a3e6a5aa8239c7e921c865ecb510d7cd4048a5e6675032dcf155fb104642156",
   "practice/sql/medium/medium-recency-006/solution.sql": "e7001552c34f1ef71b205491feb201f8d03e4a63a877901dcbdc89aad215be66",
-  "practice/sql/medium/medium-repeat-006/solution.sql": "bb4c46203fe75779e434514570285b293f514c4b53eba37447a56ed83805f479"
+  "practice/sql/medium/medium-repeat-006/solution.sql": "bb4c46203fe75779e434514570285b293f514c4b53eba37447a56ed83805f479",
+  "practice/sql/medium/sql-growth-02-who-reference/solution.sql": "9ba76f3aa59e9806d299a6188092674628b4f2272c6e2f03b8ddbeab4b7343ee",
+  "practice/sql/hard/hard-ltv-004/solution.sql": "c9079441378c64b9c93ed59e701c1a73ca649d75377155d2372b9b856d5eddae"
 }
