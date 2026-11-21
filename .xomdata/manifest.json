@@ -167,5 +167,10 @@
   "practice/sql/medium/medium-recency-006/solution.sql": "e7001552c34f1ef71b205491feb201f8d03e4a63a877901dcbdc89aad215be66",
   "practice/sql/medium/medium-repeat-006/solution.sql": "bb4c46203fe75779e434514570285b293f514c4b53eba37447a56ed83805f479",
   "practice/sql/medium/sql-growth-02-who-reference/solution.sql": "9ba76f3aa59e9806d299a6188092674628b4f2272c6e2f03b8ddbeab4b7343ee",
-  "practice/sql/hard/hard-ltv-004/solution.sql": "c9079441378c64b9c93ed59e701c1a73ca649d75377155d2372b9b856d5eddae"
+  "practice/sql/hard/hard-ltv-004/solution.sql": "c9079441378c64b9c93ed59e701c1a73ca649d75377155d2372b9b856d5eddae",
+  "practice/sql/medium/sql-growth-05-underweight-classification/solution.sql": "f37d5063f00d7e75f37e7277f7ab0e50a71934e5289a129e9f400147832c23a1",
+  "practice/sql/medium/sql-growth-01-under-five-cohort/solution.sql": "e19539ecfa95eea458010a26bb85c0d2a37616577027603aa9a826ae0b36336a",
+  "practice/sql/medium/medium-winjoin-005/solution.sql": "b406118d6a7d8724fd8ddbafbbaa34bd285857be856ec000b6f5a5ce42347f11",
+  "practice/sql/medium/medium-monetary-006/solution.sql": "2a4b0e145497e52c35dac8370623124ee5ae3eee44e70b4ef210aaa6037e3e9b",
+  "practice/sql/medium/medium-churn-005/solution.sql": "122339dd5f17ad7d1d542b6edc9e660b20fad96ece6ddb62601fe91c3261840d"
 }
