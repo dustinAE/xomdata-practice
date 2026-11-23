@@ -178,5 +178,6 @@
   "practice/sql/medium/medium-cohort-005/solution.sql": "a80c8fbd8bf1ca1ad37a744cafa71b1e877438c617a6d55e6c079b6a5aea8aee",
   "practice/sql/medium/medium-monetary-003/solution.sql": "f8ef726d443e9fa7e59f66edca8c55a1303816e0eb94538ae23b7bc9431a0638",
   "practice/sql/medium/medium-frequency-004/solution.sql": "d89f5f4a3d1d12b480641acc05a3ad79e4ea74228de652c563d77d60e91f8f3c",
-  "practice/sql/medium/medium-active-006/solution.sql": "ea6b687ab1d7edcfa7b552bf86a879efe0e1bb4febd55605b6be1ca772746c2e"
+  "practice/sql/medium/medium-active-006/solution.sql": "ea6b687ab1d7edcfa7b552bf86a879efe0e1bb4febd55605b6be1ca772746c2e",
+  "practice/sql/medium/medium-gap-001/solution.sql": "6fc48a75416fdef7706b82bac598fa5cbdab434555280fd6d60abb2ee71a3940"
 }
