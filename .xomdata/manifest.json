@@ -172,5 +172,11 @@
   "practice/sql/medium/sql-growth-01-under-five-cohort/solution.sql": "e19539ecfa95eea458010a26bb85c0d2a37616577027603aa9a826ae0b36336a",
   "practice/sql/medium/medium-winjoin-005/solution.sql": "b406118d6a7d8724fd8ddbafbbaa34bd285857be856ec000b6f5a5ce42347f11",
   "practice/sql/medium/medium-monetary-006/solution.sql": "2a4b0e145497e52c35dac8370623124ee5ae3eee44e70b4ef210aaa6037e3e9b",
-  "practice/sql/medium/medium-churn-005/solution.sql": "122339dd5f17ad7d1d542b6edc9e660b20fad96ece6ddb62601fe91c3261840d"
+  "practice/sql/medium/medium-churn-005/solution.sql": "122339dd5f17ad7d1d542b6edc9e660b20fad96ece6ddb62601fe91c3261840d",
+  "practice/sql/medium/medium-churn-006/solution.sql": "dc5c71ac6df3968340618b2d391073bc99ef9540bff2c2617af9f419c8ca15c2",
+  "practice/sql/medium/medium-frequency-001/solution.sql": "eaff05c22ab735205eb6cae814da6b1ba558366022af3c08da1511f8cf475d36",
+  "practice/sql/medium/medium-cohort-005/solution.sql": "a80c8fbd8bf1ca1ad37a744cafa71b1e877438c617a6d55e6c079b6a5aea8aee",
+  "practice/sql/medium/medium-monetary-003/solution.sql": "f8ef726d443e9fa7e59f66edca8c55a1303816e0eb94538ae23b7bc9431a0638",
+  "practice/sql/medium/medium-frequency-004/solution.sql": "d89f5f4a3d1d12b480641acc05a3ad79e4ea74228de652c563d77d60e91f8f3c",
+  "practice/sql/medium/medium-active-006/solution.sql": "ea6b687ab1d7edcfa7b552bf86a879efe0e1bb4febd55605b6be1ca772746c2e"
 }

@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**174** problems solved on [Xom Data](https://xomdata.com/practice).
+**180** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 38 | 9 | 0 | 0 | 47 |
-| SQL | 15 | 87 | 21 | 4 | 127 |
+| SQL | 15 | 93 | 21 | 4 | 133 |
 
 **Recently solved**
 
+- [medium-active-006](https://xomdata.com/practice/medium-active-006) · Medium · 2026-11-23
+- [medium-frequency-004](https://xomdata.com/practice/medium-frequency-004) · Medium · 2026-11-23
+- [medium-monetary-003](https://xomdata.com/practice/medium-monetary-003) · Medium · 2026-11-23
+- [medium-cohort-005](https://xomdata.com/practice/medium-cohort-005) · Medium · 2026-11-21
+- [medium-frequency-001](https://xomdata.com/practice/medium-frequency-001) · Medium · 2026-11-21
+- [medium-churn-006](https://xomdata.com/practice/medium-churn-006) · Medium · 2026-11-21
 - [medium-churn-005](https://xomdata.com/practice/medium-churn-005) · Medium · 2026-11-21
 - [medium-monetary-006](https://xomdata.com/practice/medium-monetary-006) · Medium · 2026-11-21
 - [medium-winjoin-005](https://xomdata.com/practice/medium-winjoin-005) · Medium · 2026-11-21
 - [sql-growth-01-under-five-cohort](https://xomdata.com/practice/sql-growth-01-under-five-cohort) · Medium · 2026-11-20
-- [sql-growth-05-underweight-classification](https://xomdata.com/practice/sql-growth-05-underweight-classification) · Medium · 2026-11-20
-- [hard-ltv-004](https://xomdata.com/practice/hard-ltv-004) · Hard · 2026-11-20
-- [sql-growth-02-who-reference](https://xomdata.com/practice/sql-growth-02-who-reference) · Medium · 2026-11-19
-- [medium-repeat-006](https://xomdata.com/practice/medium-repeat-006) · Medium · 2026-11-18
-- [medium-recency-006](https://xomdata.com/practice/medium-recency-006) · Medium · 2026-11-18
-- [hard-winback-004](https://xomdata.com/practice/hard-winback-004) · Hard · 2026-11-18
 
-_Synced 174 solutions · last update 2026-11-21_
+_Synced 180 solutions · last update 2026-11-23_
 
 <!-- xomdata:stats:end -->
 
