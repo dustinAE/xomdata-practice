@@ -181,5 +181,6 @@
   "practice/sql/medium/medium-active-006/solution.sql": "ea6b687ab1d7edcfa7b552bf86a879efe0e1bb4febd55605b6be1ca772746c2e",
   "practice/sql/medium/medium-gap-001/solution.sql": "6fc48a75416fdef7706b82bac598fa5cbdab434555280fd6d60abb2ee71a3940",
   "practice/sql/easy/easy-orderby-001/solution.sql": "bd4f847ffb6d4c0aa6b80c70351a27ac37cc31c171568679390a45abd86aba6c",
-  "practice/sql/nightmare/nightmare-pipeline-001/solution.sql": "9a22b011fe8cbef1a0d8dec63574a4cb2cabe93628f739d4b593d4135b005b4f"
+  "practice/sql/nightmare/nightmare-pipeline-001/solution.sql": "9a22b011fe8cbef1a0d8dec63574a4cb2cabe93628f739d4b593d4135b005b4f",
+  "practice/sql/nightmare/sql-nightmare-007/solution.sql": "2eba66fe69e512db7fe70ef98ad410c722028700f5c441cc75400d5dd45997c6"
 }
