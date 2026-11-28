@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**184** problems solved on [Xom Data](https://xomdata.com/practice).
+**185** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 38 | 9 | 0 | 0 | 47 |
-| SQL | 16 | 94 | 21 | 6 | 137 |
+| SQL | 16 | 94 | 21 | 7 | 138 |
 
 **Recently solved**
 
+- [nightmare-median-group-001](https://xomdata.com/practice/nightmare-median-group-001) · Nightmare · 2026-11-28
 - [sql-nightmare-007](https://xomdata.com/practice/sql-nightmare-007) · Nightmare · 2026-11-27
 - [nightmare-pipeline-001](https://xomdata.com/practice/nightmare-pipeline-001) · Nightmare · 2026-11-26
 - [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-11-24
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-monetary-003](https://xomdata.com/practice/medium-monetary-003) · Medium · 2026-11-23
 - [medium-cohort-005](https://xomdata.com/practice/medium-cohort-005) · Medium · 2026-11-21
 - [medium-frequency-001](https://xomdata.com/practice/medium-frequency-001) · Medium · 2026-11-21
-- [medium-churn-006](https://xomdata.com/practice/medium-churn-006) · Medium · 2026-11-21
 
-_Synced 184 solutions · last update 2026-11-27_
+_Synced 185 solutions · last update 2026-11-28_
 
 <!-- xomdata:stats:end -->
 
